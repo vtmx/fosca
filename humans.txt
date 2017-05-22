@@ -1,0 +1,11 @@
+/* TEAM */
+Name: Vitor Melo
+Site: http://vitormelo.com.br
+
+/* THANKS */
+Name: Fosca
+
+/* SITE */
+Standards: HTML5, CSS3, Javascript
+Components: Moderniz, jQuery, Normalize, Responsives Slides, Masonry, Light Gallery
+Software: Apache, XAMP, Gulp, Wordpress, Atom, Chrome, Firefox, Photoshop, Illustrator

@@ -1,0 +1,25 @@
+body, #wp-auth-check-wrap #wp-auth-check {
+    background: #fff;
+}
+
+.login h1 a {
+    width: 320px;
+    height: 80px;
+    background: url(../img/logo.svg) no-repeat center center;
+    background-size: cover;
+    opacity: .7;
+}
+
+.login form {
+    padding: 10px 2px 2px 2px;
+    box-shadow: none;
+}
+
+.login #login_error, .login .message {
+    margin: 0;
+    background-color: #fbfbfb;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    box-shadow: none;
+}

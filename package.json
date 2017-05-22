@@ -1,0 +1,21 @@
+{
+  "name": "fosca",
+  "version": "1.0.0",
+  "description": "Site of fosca.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fosca",
+    "illustration"
+  ],
+  "author": "Vitor Melo",
+  "license": "ISC"
+}
